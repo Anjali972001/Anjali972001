@@ -1,3 +1,6 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
+
 <h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
